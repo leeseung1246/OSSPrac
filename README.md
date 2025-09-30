@@ -11,3 +11,5 @@
 Fetch & merge
 A
 B
+
+print("hello world")
